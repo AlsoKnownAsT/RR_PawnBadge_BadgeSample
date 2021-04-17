@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <identifier>RR_PawnBadge_BadgeSample_CHANGEME</identifier>
+    <identifier>RR_PawnBadge_Additional_Badges</identifier>
     <version>0.1.0.0</version>
     <dependencies>
         <li>RR_PawnBadge</li>
